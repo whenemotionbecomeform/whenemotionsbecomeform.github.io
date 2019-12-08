@@ -1,6 +1,6 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { ResponsiveEmbed, Container } from "react-bootstrap";
+import { ResponsiveEmbed, Container, Col } from "react-bootstrap";
 
 export default function Video() {
   return (
